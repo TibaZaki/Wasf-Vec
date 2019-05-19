@@ -22,4 +22,5 @@
 	
 	python3 Build_Wasf_Vec_Model.py ${c}.Reversed_indexed.wf ${c}.indexed.wf 
 	rm ${c}.Reversed_indexed.wf 
-	rm ${c}.indexed.wf 
+	rm ${c}.indexed.wf
+	echo building Wasf-Vec completed successfuly

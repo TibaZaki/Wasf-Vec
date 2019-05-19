@@ -4,7 +4,7 @@ import collections
 import sys
 # Author: Tiba Zaki Abdulhameed April 11,2018 Western Michigan University/Al-Nahrain University
 # This program takes 2 arguments; input file as Arabic corpus. output file is the vocabulary list with each word frequency 
-# example of running command: python3 count_word.py toyCorpus.txt Vocab_freq.txt
+# example of running command: python3 count_word.py toyCorpus.txt
 if(len(sys.argv)!=2):print('Arguments error ')
 else:
 	print('Hi count_word')	

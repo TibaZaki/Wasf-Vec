@@ -1,4 +1,5 @@
 #!/bin/sh
+# Author: Tiba Zaki Abdulhameed April 11,2018 Western Michigan University/Al-Nahrain University
 	c=toyCorpus.txt #this file is prepared coupus
 	
 	echo "Start counting"
